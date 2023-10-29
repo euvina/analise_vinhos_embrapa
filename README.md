@@ -43,7 +43,7 @@ Nossa tarefa é analisar os dados de exportação de vinhos de uma empresa, a qu
 
 **main/**
 
-    Existem diversas maneiras de resolver o mesmo problema com Python. Por isso, mantivemos notebooks que contam a mesma história, a partir de métodos diferentes:
+Existem diversas maneiras de resolver o mesmo problema com Python. Por isso, mantivemos notebooks que contam a mesma história, a partir de métodos diferentes:
 
     A01_tratamento_vinhos_grupo32.ipynb: tratamento de dados, gera a base de dados para o notebook de prefixo A02
 
