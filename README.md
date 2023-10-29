@@ -35,7 +35,7 @@ Nossa tarefa é analisar os dados de exportação de vinhos de uma empresa, a qu
 -`Valor em US$` de vinho exportado
 
 <div class="alert-info">
-<b>📊🍷:</b> A tabela geral de exportações de vinho pode ser gerada a partir de duas maneiras diferentes, nos notebooks com prefixo `A01` e `B01`.</div>
+<b>📊🍷:</b> A tabela geral de exportações de vinho pode ser gerada a partir de duas maneiras diferentes, nos notebooks com prefixo A01 e B01.</div>
 
 ---
 
