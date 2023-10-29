@@ -41,21 +41,21 @@ Nossa tarefa é analisar os dados de exportação de vinhos de uma empresa, a qu
 
 ### Arquivos importantes
 
-`main/`
+**main/**
 
-    Existem diversas maneiras de resolver o mesmo problema com Python. Por isso, mantivemos **notebooks** que contam a mesma história, a partir de métodos diferentes:
+    Existem diversas maneiras de resolver o mesmo problema com Python. Por isso, mantivemos notebooks que contam a mesma história, a partir de métodos diferentes:
 
-    `A01_tratamento_vinhos_grupo32.ipynb`: tratamento de dados, gera a base de dados para o notebook de prefixo `A02`
+    A01_tratamento_vinhos_grupo32.ipynb: tratamento de dados, gera a base de dados para o notebook de prefixo A02
 
-    `A02_base_powerbi_vinhos_grupo32.ipynb`: gera as bases de dados para o PowerBI, com principais insights
+    A02_base_powerbi_vinhos_grupo32.ipynb: gera as bases de dados para o PowerBI, com principais insights
 
     `B01_unico_vinhos_grupo32.ipynb`: análise única, com tratamento e visualização de dados
 
-`./utils/`
+**./utils/**
 
-    `functions.py`: funções utilizadas no notebook com prefixo `B01`
+    functions.py: funções utilizadas no notebook com prefixo B01
 
-    `wine_style.mplstyle:` folha de estilo para matplotlib utilizada no notebook com prefixo `B01`
+    wine_style.mplstyle: folha de estilo para matplotlib utilizada no notebook com prefixo B01
 
 ---
 
