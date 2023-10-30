@@ -49,7 +49,10 @@ Existem diversas maneiras de resolver o mesmo problema com Python. Por isso, man
 
     A02_base_powerbi_vinhos_grupo32.ipynb: gera as bases de dados para o PowerBI, com principais insights
 
-    `B01_unico_vinhos_grupo32.ipynb`: análise única, com tratamento e visualização de dados
+    B01_unico_vinhos_grupo32.ipynb: análise única, com tratamento e visualização de dados
+
+    Vinícola 32.pbix: dashboard desenvolvido no PowerBI com dados gerais de exportação da Vinícola 32
+    
 
 **./utils/**
 
