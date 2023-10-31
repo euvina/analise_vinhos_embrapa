@@ -10,7 +10,7 @@ Grupo 32 - Autores:
 - Vinícius Prado Lima
 - Vitor Sarilio
 
-**[Link do artigo](https://medium.com/p/0d9858104c67/)**
+**[Link do artigo](https://medium.com/grupo-32/análise-sobre-a-exportação-de-vinhos-no-brasil-0d9858104c67)**
 
 ---
 
